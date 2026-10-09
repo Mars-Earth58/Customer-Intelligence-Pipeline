@@ -19,5 +19,5 @@ So, I decided to play the role of Data Engineer, Data Analyst, and Data Scientis
 3. **Predicting the Future:** I connected a Python environment directly to my clean cloud data. Using RFM (Recency, Frequency, Monetary) analysis, I trained a Random Forest classification model. The goal? Predict if a customer was at risk of churning based *only* on their spending habits. (It hit a 64% baseline accuracy—not bad for just using historical transaction data!)
 4. **Bringing it to Life:** I pushed those machine learning predictions back into BigQuery and hooked up Power BI to the live cloud database. I built an interactive dashboard to track executive KPIs, cohort retention, and most importantly, generate an actionable "hit list" of high-risk customers.
 
-## 📊 The Real-World Business Impact
+## The Real-World, Real-life Business Impact
 I personally believe data is only useful if it helps the business. One way data can help a business is by identifying high-value customers who are flagged as churn risks. I believe that this pipeline actually gives a marketing team something to work with. They can send targeted retention campaigns to the right people before they leave, thereby directly protecting Monthly Recurring Revenue and Customer Lifetime Value!
