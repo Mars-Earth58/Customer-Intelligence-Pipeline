@@ -1,4 +1,4 @@
-# 🛒 End-to-End Customer Intelligence Pipeline
+# End-to-End Customer Intelligence Pipeline
 
 ## Why I Built This
 While studying data analytics, I realized there's a massive gap between just writing a quick script and actually driving real business decisions. You always hear data scientists complain about messy data, and analysts struggle when data isn't modeled correctly in the first place. 
